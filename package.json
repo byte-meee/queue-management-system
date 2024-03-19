@@ -1,0 +1,25 @@
+{
+  "name": "queue-management-system",
+  "version": "1.0.0",
+  "description": "System for managing queues, supporting priority and delayed job processing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byte_meee/queue-management-system"
+  },
+  "author": "byte_meee",
+  "license": "MIT",
+  "dependencies": {
+    "graph-data-visualizer": "1.0.0",
+    "queue-management-system": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "multer": "1.0.0",
+    "fs-extra": "1.0.0",
+    "web3": "1.0.0",
+    "webpack": "1.0.0",
+    "axios": "1.0.0"
+  }
+}
